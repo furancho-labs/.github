@@ -21,6 +21,15 @@ and serve whatever we've been cooking.
 > 🥄 **Coming soon.** The first dishes are still on the stove.
 > Check back shortly, grandma has already put the pot on the fire.
 
+### 🧾 [The menu](https://raw.githubusercontent.com/furancho-labs/carta/main/carta.json)
+
+Our favorite dish, served hot straight from the kitchen:
+
+```bash
+curl https://raw.githubusercontent.com/furancho-labs/carta/main/carta.json
+```
+
+
 ### 👨‍🍳 In the kitchen
 
 | | |
