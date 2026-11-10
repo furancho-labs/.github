@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile/assets/banner.svg" alt="Furancho Labs" width="100%">
+  <img src="./assets/banner.svg" alt="Furancho Labs" width="100%">
 </p>
 
 <p align="center">
